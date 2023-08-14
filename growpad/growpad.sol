@@ -20,7 +20,7 @@ contract Growpad {
     }
 
     function contribute() external payable {
-        require(msg.value > 0, "Must send some Ether.");
+        require(msg.value > 0, " send some Ether.");
         
         contributions[msg.sender] += msg.value;
         totalContributions += msg.value;
