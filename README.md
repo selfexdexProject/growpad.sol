@@ -1,9 +1,5 @@
 
 
-
-
-
-
 Growpad Smart Contract
 Growpad is an Ethereum smart contract that allows users to make contributions and keeps a record of individual and total contribution.
 
