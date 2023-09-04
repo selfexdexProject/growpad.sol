@@ -17,6 +17,7 @@ Functions:
 1. contribute()
 This function allows users to send Ether to the contract. An event named Contributed is emitted, recording the contribution.
 
+
 Requirements:
 
 The contribution (Ether sent with the transaction) must be greater than 0.
