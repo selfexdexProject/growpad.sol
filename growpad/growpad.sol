@@ -44,3 +44,4 @@ contract Growpad {
         return totalContributions;
     }
 }
+
