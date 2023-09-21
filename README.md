@@ -3,8 +3,6 @@ Growpad Smart Contract
 Growpad is an Ethereum smart contract that allows users to make contributions and keeps a record of individual and total contribution.
 
 Features
-
-
 Ownership: Only the owner (deployer of the contract) can withdraw the funds from the contract.
 Contribute: Any Ethereum address can contribute Ether to the contract.
 Withdraw: Only the owner can withdraw a specified amount of Ether.
