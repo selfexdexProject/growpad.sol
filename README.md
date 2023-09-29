@@ -12,6 +12,7 @@ Contributed: Emitted when a user contributes Ether to the contract.
 Withdrew: Emitted when the owner withdraws Ether from the contract.
 Functions:
 1. contribute()
+   
 This function allows users to send Ether to the contract. An event named Contributed is emitted, recording the contribution.
 
 
